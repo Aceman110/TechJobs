@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechJobsConsole", "TechJobsConsole.csproj", "{3660D26F-8275-4EB8-B16B-E7F712E2CB35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3660D26F-8275-4EB8-B16B-E7F712E2CB35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3660D26F-8275-4EB8-B16B-E7F712E2CB35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3660D26F-8275-4EB8-B16B-E7F712E2CB35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3660D26F-8275-4EB8-B16B-E7F712E2CB35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
